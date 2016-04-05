@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">class4</string>
+
+    <string-array name="myArray">
+
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Fourth</item>
+        <item>Fifht</item>
+        <item>Sixth</item>
+
+    </string-array>
+
+</resources>
+
+
